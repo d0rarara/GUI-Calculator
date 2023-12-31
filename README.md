@@ -18,7 +18,7 @@ This is a simple calculator desktop app made with Java and Swing.
 ![screenshot](screenshot.png)
 
 
-## Skills developed in this project >:(
+## Skills developed in this project
 
 - Java
 - Model-View-Controller (MVC) design pattern
